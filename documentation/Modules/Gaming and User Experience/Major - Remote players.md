@@ -1,10 +1,14 @@
 ---
 topic:
 tags:
+  - Game
 ---
 ## Module Requirements 
 
-Insert the Module text here
+Remote players  - Enable two players on separate computers to play the same game in real-time. 
+- Handle network latency and disconnections gracefully.
+- Provide a smooth user experience for remote gameplay.
+- Implement reconnection logic.
 
 ## Task we are tackling  
 - [ ] <- Add a link to another note ie. Create the Task that belongs to this

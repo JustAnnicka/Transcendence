@@ -1,15 +1,18 @@
 ---
 topic:
 tags:
+  - Game
 ---
 ## Module Requirements 
 
-Insert the Module text here
+- Power-ups, attacks, or special abilities. 
+- Different maps or themes.
+- Customisable game settings.
+- Default options must be available.
 
 ## Task we are tackling  
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
+- [ ] Game setup customisation player number
+- [ ] 
 This should be ordered by priority
 
 ## Issues & concerns

@@ -1,5 +1,5 @@
 ---
-date: 2025-12-13
+topic: Web
 tags:
   - Web
   - Major
@@ -13,13 +13,13 @@ Use a framework for both the frontend and backend.
 - Full-stack frameworks (Next.js, Nuxt.js, SvelteKit) count as both if you use both their frontend and backend capabilities
 
 ## Task we are tackling  
-- [[]] <- Choice of Framework Frontend
-	- Implementation of framework
-- [[]] <- Choice of Framework Backend
-	- Implementation of framework
+-  Fronted framework = React.js
+	- [ ] [[Create Web-page structure & Design]]
+-  Backend Framework = Express
+	- MongoDB as database
 
 ## Issues & concerns
-- Figure out what frameworks work together well and what we wish to implement 
+- 
 
 ## Code Snippets
 Add core code or example code here (Change this to name or function)

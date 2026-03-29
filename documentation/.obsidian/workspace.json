@@ -4,59 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba3551882f93af0",
+        "id": "4a5c5ce500bb2d38",
         "type": "tabs",
+        "dimension": 55.13513513513513,
         "children": [
           {
-            "id": "ea62062f7224df92",
+            "id": "0d9363d56ff83e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Gaming and User Experience/Main Feature/Top trump rules.md",
+                "file": "Modules/Web/Minor - Custom-made design system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top trump rules"
+              "title": "Minor - Custom-made design system"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c605b3dd4f4481d",
+        "type": "tabs",
+        "dimension": 44.86486486486487,
+        "children": [
+          {
+            "id": "d7d8b656e63129dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Walking Skeleton.canvas",
+                "viewState": {
+                  "x": -2896.4264926047495,
+                  "y": 905.7808483038737,
+                  "zoom": -0.7837593589927899
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Walking Skeleton"
             }
           },
           {
-            "id": "6b23b29668ada295",
+            "id": "875787cbac240f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Idea.md",
+                "file": "Ft_transcendence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Idea"
+              "title": "Ft_transcendence"
             }
           },
           {
-            "id": "3f489bc18435d069",
+            "id": "e2dcc9bd217804d6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Transcendence.pdf"
+                "file": "Modules/Gaming and User Experience/Major - Game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Transcendence"
+              "icon": "lucide-file",
+              "title": "Major - Game"
             }
           },
           {
-            "id": "ad8ad8ea19094f3d",
+            "id": "77fd82bf927467ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "MODULE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "MODULE"
+            }
+          },
+          {
+            "id": "bdb24b841cf109fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Artificial Intelligence/Major - AI Opponent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Major - AI Opponent"
             }
           }
         ]
@@ -91,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Game-UX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "cc306d6eb1f032cc",
@@ -132,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Task.md",
+                "file": "Modules/Web/Minor - Custom-made design system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Task"
+              "title": "Backlinks for Minor - Custom-made design system"
             }
           },
           {
@@ -221,29 +264,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb5c756b5a3b0fb4",
+  "active": "0d9363d56ff83e8c",
   "lastOpenFiles": [
+    "Modules/Web/Main Feature/Create Web-page structure & Design.md",
     "Modules/Web/Major - Framework Front & Backend.md",
-    "General Idea.md",
+    "Modules/Web/Major - Implement real-time features using WebSockets or similar technology..md",
     "Modules/Web/Minor - Custom-made design system.md",
-    "Modules/Gaming and User Experience/Main Feature/Standard - Default Game.md",
-    "Modules/Gaming and User Experience/Major  - Game.md",
-    "templates/Task.md",
-    "templates/Module Requirements.md",
-    "42 Adaption.md",
-    "Ft_transcendence.md",
     "Walking Skeleton.canvas",
+    "templates/Task.md",
+    "MODULE.md",
+    "Modules/Gaming and User Experience/Major - Game customization options.md",
     "Transcendence.pdf",
+    "Modules/Gaming and User Experience/Major - Multiplayer.md",
+    "Modules/Artificial Intelligence/Major - AI Opponent.md",
+    "Modules/Gaming and User Experience/Major - Remote players.md",
+    "Modules/Gaming and User Experience/Major - Game.md",
+    "templates/Module Requirements.md",
+    "Modules/Artificial Intelligence",
+    "Gitflow Cheat sheet.md",
+    "Gitflow Rules.md",
+    "Ft_transcendence.md",
+    "GitUsage",
+    "42 Adaption.md",
+    "Modules/User Management/Minor - Remote authentication with OAuth 2.0.md",
+    "Modules/User Management/Minor - Game statistics and match history.md",
+    "Modules/Web/Minor - Server-Side Rendering.md",
     "Untitled.base",
     "Untitled 1.base",
+    "Modules/User Management",
+    "Modules/Web/Extra Feature",
+    "Modules/Web/Main Feature",
+    "2025-12-13.md",
     "Modules/Gaming and User Experience/Main Feature/Top trump rules.md",
+    "Modules/Gaming and User Experience/Main Feature/Standard - Default Game.md",
+    "[[Major.md",
+    "Major.md",
+    "[Major.md",
     "Modules/Gaming and User Experience/Main Feature",
-    "Modules/Gaming and User Experience",
-    "Modules/Web",
-    "templates/title}}.md",
-    "templates",
-    "untitled folder",
-    "Core",
-    "Modules"
+    "Modules/Gaming and User Experience"
   ]
 }

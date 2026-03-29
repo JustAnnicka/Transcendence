@@ -1,16 +1,14 @@
 ---
-topic:
+topic: User Managment
 tags:
+  - UerManagment
 ---
 ## Module Requirements 
 
-Insert the Module text here
+ - Implement remote authentication with OAuth 2.0 (Google, GitHub, 42, etc.).
 
 ## Task we are tackling  
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-This should be ordered by priority
+- [ ] Use 42 to authenticate user for their accounts (this is a requirement to enter the service)
 
 ## Issues & concerns
 - List issues or concerns that we need to handle 

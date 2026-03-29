@@ -1,15 +1,18 @@
 ---
 topic:
 tags:
+  - Web
+  - Minor
 ---
 ## Module Requirements 
-
-Insert the Module text here
-
+Server-Side Rendering (SSR) for improved performance and SEO.
+Implement real-time features using WebSockets or similar technology.
+ - Real-time updates across clients. 
+ - Handle connection/disconnection gracefully.
+ - Efficient message broadcasting.
 ## Task we are tackling  
 - [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
+
 This should be ordered by priority
 
 ## Issues & concerns

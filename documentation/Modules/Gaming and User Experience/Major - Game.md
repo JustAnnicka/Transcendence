@@ -39,13 +39,13 @@ can vary depending on deck (we can implement this by creating bigger decks for m
 - **32 Cards:** Another frequent standard, fitting the size of a standard deck.
 - **48-50 Cards:**
 ## Task we are tackling  
-- [[]] Create a deck in game
-	- UI for Deck
-	- Extend to deck based on level
-- [[]] Create Game logic (Rules)
+- [ ] Create a deck in game
+	- UI for Deck (WEB category)
+	- Extend to deck based on level (EXTRA)
+- [ ] Create Game logic (Rules)
 	- Win Loose states
-- [[]] Experience System (Gamification System)
-- [[]] Create Custom game
+- [ ] Experience System (Gamification System) (EXTRA)
+- [ ] Create Custom game (Part of Customisation module)
 	- select deck
 	- select game mode
 		- standard

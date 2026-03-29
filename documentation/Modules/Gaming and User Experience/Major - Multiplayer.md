@@ -1,15 +1,18 @@
 ---
 topic:
 tags:
+  - Game
 ---
 ## Module Requirements 
 
-Insert the Module text here
+Multiplayer game (more than two players). 
+- Support for three or more players simultaneously.
+- Fair gameplay mechanics for all participants.
+- Proper synchronization across all clients.
 
 ## Task we are tackling  
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
-- [ ] <- Add a link to another note ie. Create the Task that belongs to this
+- [ ] Game setup customisation player number
+- [ ] 
 This should be ordered by priority
 
 ## Issues & concerns
