@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "3d7e4129672907aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba3551882f93af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea62062f7224df92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Gaming and User Experience/Main Feature/Top trump rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Top trump rules"
+            }
+          },
+          {
+            "id": "6b23b29668ada295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Idea"
+            }
+          },
+          {
+            "id": "3f489bc18435d069",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Transcendence.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Transcendence"
+            }
+          },
+          {
+            "id": "ad8ad8ea19094f3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ecfb22354fd61a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d965be6fe226ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5c756b5a3b0fb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f34f2da9bf1ed62d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a68d33d201fb7889",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc306d6eb1f032cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42b997aacfda62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c271400b37ec624",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/Task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Task"
+            }
+          },
+          {
+            "id": "eeb00d2aa34cf26c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Task"
+            }
+          },
+          {
+            "id": "cbbc11748d5105c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26130e99357105fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "836414bfc67aab55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/Task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Task"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb5c756b5a3b0fb4",
+  "lastOpenFiles": [
+    "Modules/Web/Major - Framework Front & Backend.md",
+    "General Idea.md",
+    "Modules/Web/Minor - Custom-made design system.md",
+    "Modules/Gaming and User Experience/Main Feature/Standard - Default Game.md",
+    "Modules/Gaming and User Experience/Major  - Game.md",
+    "templates/Task.md",
+    "templates/Module Requirements.md",
+    "42 Adaption.md",
+    "Ft_transcendence.md",
+    "Walking Skeleton.canvas",
+    "Transcendence.pdf",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Modules/Gaming and User Experience/Main Feature/Top trump rules.md",
+    "Modules/Gaming and User Experience/Main Feature",
+    "Modules/Gaming and User Experience",
+    "Modules/Web",
+    "templates/title}}.md",
+    "templates",
+    "untitled folder",
+    "Core",
+    "Modules"
+  ]
+}
