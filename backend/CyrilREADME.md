@@ -52,6 +52,16 @@ _npm install express axios body-parser dotenv_ for API42
 _npm install better-sqlite3_ for database
 _npm install express-session_ to keep session open 
 
+## cert for htpps 
+
+mkdir -p nginx/certs
+cd nginx/certs
+
+openssl req -x509 -nodes -days 365 \
+-newkey rsa:2048 \
+-keyout key.pem \
+-out cert.pem
+
 
 
 ## 📌 Overview
@@ -190,3 +200,8 @@ GET    /matchmaking/status
 ##  Author
 
 Backend development for Transcendence project.
+sudo apt-get install -y mkcert libnss3-tools
+mkcert -install
+mkcert localhost 127.0.0.1
+mv localhost+1.pem ~/Transcendence/nginx/certs/cert.pem
+mv localhost+1-key.pem ~/Transcendence/nginx/certs/key.pem

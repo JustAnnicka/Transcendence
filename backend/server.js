@@ -16,6 +16,7 @@ app.use('/', require('./routes/auth'))
 app.use('/user', require('./routes/user'))
 app.use('/db', require('./routes/db'))
 
+
 app.get('/test', (req, res) => res.send('hello world'))
 
 app.listen(port, '0.0.0.0', () => console.log(`Server running on port ${port}`))
